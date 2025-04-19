@@ -22,19 +22,19 @@ This project implements matrix operations in C and C++ to demonstrate:
 To build and run:
 
 ## C++
-
+```bash
   make cpp
   make runcpp
-
+```
 ## C
-
+```bash
   make c
   make runc
-
+```
 ## Output
 
 For both the output should be:
-'''
+```bash
 90 70
 200 150
-'''
+```
