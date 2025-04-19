@@ -13,6 +13,7 @@ This project implements matrix operations in C and C++ to demonstrate:
 
 ## FILES
 - `matrix.cpp` – Implementation of the `Matrix` class in C++
+- `matrix.hpp` – Header file for `matrix.cpp`, defining the `Matrix` class and function declarations
 - `matrix.c` – Procedural implementation of matrix functions in C
 - `matrix.h` – Header file for `matrix.c`, defining the `Matrix` struct and function declarations
 - `Makefile` – Contains build instructions to compile and run both C and C++ versions
